@@ -1,0 +1,24 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ijn_main
+*Date=15:05:13
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;48.24;-24.3783;0;Bottom;J1
+2;;THT;38.08;-24.3783;0;Bottom;J5
+3;;THT;38.08;-33.2683;0;Bottom;J6
+4;;THT;58.4;-18.0283;0;Bottom;J3
+5;;THT;30.46;-24.3783;180;Bottom;J4
+6;;;30.42;-1.01547;180;Bottom;TRM1
+7;;THT;22.84;-24.3783;0;Bottom;J2
+8;;THT;45.7;-23.1083;0;Bottom;J7
+9;;;36.7831;-44.8245;90;Bottom;Power plug1
